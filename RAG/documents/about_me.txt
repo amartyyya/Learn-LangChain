@@ -1,0 +1,11 @@
+I am Amartya Maurya, a Computer Science undergraduate at IIIT Lucknow, set to graduate in 2025 with a CGPA of 8.02/10. My journey in tech has been driven by a deep passion for software development, problem-solving, and impactful innovation. Over the past few years, I have honed my technical skills and gained hands-on experience through various internships, projects, and leadership roles. 
+
+During my SDE internship at HSV Digital, I contributed to building a Mark-Tech SaaS solution that automates channel marketing. By restructuring the webpage embedding feature and implementing dynamic UI components using Next.js, I improved efficiency by 30%, enabling a seamless go-live process. As a research intern at IIIT Lucknow, I developed a Raspberry Pi-based vehicle identification system, achieving 95% accuracy using YOLOv8 and enhancing real-time processing through TensorFlow and Flask integrations. This project significantly optimized workflows, reducing manual efforts by 80%.
+
+My portfolio includes projects like **PreTest**, a mock interview platform utilizing Next.js, MongoDB, and Google Workspace to provide real-time scheduling, and **JobFit**, a tool leveraging LangChain and Retrieval-Augmented Generation (RAG) to optimize resumes against job descriptions. The latter enhanced resume relevance by 25% and enabled users to achieve better alignment with job requirements.
+
+I have a strong competitive programming background, with achievements such as Codeforces Expert (rated 1627), a 4-star rating on CodeChef, and global ranks in CodeChef Starters and Google competitions like Kickstart and Hash Code. Solving over 1,100 algorithmic problems across platforms like LeetCode, Codeforces, and GeeksforGeeks reflects my analytical mindset and problem-solving prowess.
+
+As the Overall Cultural Coordinator at IIIT Lucknow, I managed events, tripled sponsorships, and led a team of 60+ members, enhancing the institute's cultural presence. I also served as Media Lead for Equinox’24, driving a 60% boost in engagement through strategic media campaigns.
+
+Technically proficient in languages like C++, Python, JavaScript, and frameworks like React and Node.js, I thrive in collaborative and challenging environments. I am passionate about merging my technical expertise with leadership skills to drive impactful projects and innovative solutions.
